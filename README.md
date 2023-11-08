@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2>Hi There 👋</h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mateuszk098&show_icons=true&rank_icon=github&theme=dracula&line_height=30&show=reviews,discussions_answered&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszk098&size_weight=0&count_weight=1&theme=dracula&hide=Procfile&hide_border=true">
 </p>
 
-## <b><span style="font-family: 'JetBrains Mono'">Languages</span></b>
+<h2><b><span style="font-family: 'JetBrains Mono'">Languages</span></b></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## <b><span style="font-family: 'JetBrains Mono'">Tools</span></b>
+<h2> <b><span style="font-family: 'JetBrains Mono'">Tools</span></b></h2>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -23,12 +23,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## <b><span style="font-family: 'JetBrains Mono'">OS</span></b>
+<h2> <b><span style="font-family: 'JetBrains Mono'">OS</span></b></h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## <b><span style="font-family: 'JetBrains Mono'">Editor</span></b>
+<h2> <b><span style="font-family: 'JetBrains Mono'">Editor</span></b></h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -38,4 +38,4 @@
 </p>
 <br>
 
-<b><span style="font-family: 'JetBrains Mono'">I'm Kaggle enthusiast. Check my profile here: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a></span></b>
+<h4><b><span style="font-family: 'JetBrains Mono'">I'm Kaggle enthusiast. Check my profile here: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a></span></b></h4>
