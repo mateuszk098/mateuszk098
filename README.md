@@ -33,7 +33,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
-<center><img src="undraw_firmware.svg" width=400px></center>
+<p align="center">
+    <img src="undraw_firmware.svg" width=400px>
+</p>
 <br>
 
 <b><span style="font-family: 'JetBrains Mono'">I'm Kaggle enthusiast. Chek my profile here: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a></span></b>
