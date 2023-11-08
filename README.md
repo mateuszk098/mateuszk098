@@ -38,4 +38,4 @@
 </p>
 <br>
 
-<h4><b><span style="font-family: 'JetBrains Mono'">I'm Kaggle enthusiast. Check my profile here: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a></span></b></h4>
+<b><span style="font-family: 'JetBrains Mono'">I'm Kaggle enthusiast. Check my profile here: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a></span></b>
