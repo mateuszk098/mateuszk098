@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mateuszk098&show_icons=true&rank_icon=github&theme=dracula&line_height=30&show=reviews,discussions_answered&hide_border=true&card_width=500">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszk098&size_weight=0&count_weight=1&theme=dracula&hide=Procfile&hide_border=true&card_width=350">
+    <img src="https://github-readme-stats.vercel.app/api?username=mateuszk098&show_icons=true&rank_icon=github&theme=dracula&line_height=30&show=reviews,discussions_answered&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszk098&size_weight=0&count_weight=1&theme=dracula&hide=Procfile&hide_border=true">
 </p>
 
 ## <b><span style="font-family: 'JetBrains Mono'">Languages</span></b>
