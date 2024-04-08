@@ -1,10 +1,3 @@
-<h2>Hi There 👋</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mateuszk098&show_icons=true&rank_icon=github&theme=dracula&line_height=30&show=reviews,discussions_answered&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszk098&size_weight=0&count_weight=1&theme=dracula&hide=Procfile&hide_border=true">
-</p>
-
 <h2><b><span style="font-family: 'JetBrains Mono'">Languages</span></b></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +15,11 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h2> <b><span style="font-family: 'JetBrains Mono'">OS</span></b></h2>
 
