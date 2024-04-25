@@ -39,7 +39,7 @@
 
 <br>
 <p align="center">
-    <img src="undraw_firmware.svg" width=400px>
+    <img src="error.gif" width=400px>
 </p>
 <br>
 
