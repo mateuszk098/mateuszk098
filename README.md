@@ -1,4 +1,4 @@
-<b><span style="font-family: 'JetBrains Mono'">You may want to check this: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a></span></b>
+You may want to check this :point_right: <a href="https://www.kaggle.com/mateuszk013" style="color: #9150CB">kaggle.com/mateuszk013</a>
 
 <br>
 <p align="center">
